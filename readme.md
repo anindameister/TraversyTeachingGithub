@@ -1,5 +1,8 @@
 # github
 
+- .md is markdown
+- url https://www.youtube.com/watch?v=SWYqp7iY_Tc
+
 #### to create the desired file
 - touch index.html to create the desired file
 
@@ -63,6 +66,20 @@
 - git checkout login
 - only the .gitignore stuff goes off all the rest of the files just gets replicated to the new branch
 - touch login.html creating a new file
+- editing the already existing files like index.html which came in from the masters
+- git add,commit,push and then we move to master branch and check the index.html, we see that the changes made form the login branch is not there
+- moreover the above also doesn't carry forward the newly created file in the newly created branch
+- ready to merge!
+- in the master
+- git merge login
+- editor opens up
+- click i
+- now you can type
+- move cursor to remove #
+- esc to get out of insert mode
+- :wq and enter
+- now even from the master branch we can see the login html which has been created by the login branch
+
 
 
 
