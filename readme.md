@@ -3,6 +3,13 @@
 - .md is markdown
 - url https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
+#### for secured repository in git:
+
+- git clone https://login:password@gitlab.emse.fr/territoire/internship/mobile-entreprise-collect.git
+-	or
+
+- git clone https://login@gitlab.emse.fr/territoire/internship/mobile-entreprise-collect.git
+
 #### to create the desired file
 - touch index.html to create the desired file
 
