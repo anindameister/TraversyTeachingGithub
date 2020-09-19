@@ -87,6 +87,14 @@
 - :wq and enter
 - now even from the master branch we can see the login html which has been created by the login branch
 
+#### existing repository push
+
+- somehow the below worked
+
+![push to exisiting repo](https://github.com/anindameister/TraversyTeachingGithub/blob/master/snaps/1.PNG)
+
+- curtosy: https://scotch.io/tutorials/how-to-push-an-existing-project-to-github
+
 
 
 
