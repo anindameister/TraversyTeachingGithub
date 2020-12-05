@@ -94,6 +94,7 @@
 ![push to exisiting repo](https://github.com/anindameister/TraversyTeachingGithub/blob/master/snaps/1.PNG)
 
 - curtosy: https://scotch.io/tutorials/how-to-push-an-existing-project-to-github
+- please check this https://www.youtube.com/user/discospiff/search?query=github
 
 
 
